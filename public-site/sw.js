@@ -1,4 +1,4 @@
-const CACHE = 'shiji-v1';
+const CACHE = 'shiji-v4';
 const SHELL = ['./', './manifest.webmanifest', './icon.svg', './icon-192.png'];
 
 self.addEventListener('install', (event) => {
